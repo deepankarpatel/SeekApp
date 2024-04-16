@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HornwortsExplained">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Anthoceros"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Anthoceros is a genus of hornworts in the family Anthocerotaceae. The genus is global in its distribution. Its name means 'flower horn', and refers to the characteristic horn-shaped sporophytes that all hornworts produce."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="275dp"
+            android:src="@drawable/anthoceros"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Species of Anthoceros are characterized by having a small to medium-sized, green thallus that is more or less lobed along the margins. The spores are dark gray, dark brown or black, this is the easiest way to distinguish Anthoceros from the related genus Phaeoceros, which produces spores that are yellow."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notothylas"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notothylas is a genus of hornworts in the family Notothyladaceae. The genus is found globally, but is usually overlooked. It is the smallest of all the hornworts, with a yellow-green gametophyte thallus that is seldom more than a centimeter in diameter, and usually much smaller."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="275dp"
+            android:src="@drawable/notothylas"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The genus Notothylas is also unusual among hornworts in that the sporophyte is bullet-shaped and does not grow very large (less than two millimeters). The sporophytes grow outwards rather than upwards, and like Megaceros, there are no stomata on the surface of the sporophyte. The elater cells do not grow helical thickenings."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Megaceros"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Megaceros is a genus of hornworts in the family Dendrocerotaceae. The genus is found in the Old World tropics of east Asia and Australia. Its name means 'big horn', and refers both to the exceptionally large size of the gametophyte thallus and to the large, horn-shaped sporophyte that the plants produce. Many species have a branching thallus that is more than two centimeters wide. The gametophytes are monoicous."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:src="@drawable/megaceros"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The genus Megaceros is unusual among hornworts in that the sporophyte does not have stomata, and the spores are green because they contain chloroplasts, as does the related genus Dendroceros. The thallus cells often contain more than one chloroplast, as opposed to other hornwort genera. The elaters are helical."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

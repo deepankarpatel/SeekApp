@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AmphiumaExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amphiuma"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amphiuma is a genus of aquatic salamanders from the United States, the only extant genus within the family Amphiumidae They are colloquially known as amphiumas."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:src="@drawable/amphiuma"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="They are also known to fishermen as conger eels or Congo snakes, which are zoologically incorrect designations or misnomers, since amphiumas are actually salamanders (and thus amphibians), and not fish, nor reptiles. Amphiuma exhibits one of the largest complements of DNA in the living world, around 25 times more than a human."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amphiumas have an elongated body, generally grey-black in color. They do have legs, but they are merely vestigial and very small. While amphiumas can be up to 116 cm (46 in) long, their legs measure only up to about 2 cm (0.79 in). It is because of this that they are often mistaken for eels or snakes. They also lack eyelids and a tongue. Amphiumas also have a lateral line visible on the sides of their bodies, which are capable of detecting movement and are used in aid of hunting. "
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female amphiumas lay their eggs in wet mud, and then remain coiled around them for about five months, until they hatch. The larvae have external gills, but after about four months these external gills disappear and the lungs begin to work. One pair of gill slits, with fully functioning internal gills, is retained and never disappears, so the metamorphosis remains incomplete."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Taxonomy"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Numerous phylogenetic studies have indicated that amphiumas form a clade with the families Rhyacotritonidae (torrent salamanders) and Plethodontidae (lungless salamanders), with an especially close relationship to Plethodontidae. Despite this possible relationship, the two families must have still diverged very early on. The genus Proamphiuma from the Cretaceous is the earliest known member of the family, and closely resembles the modern species aside from less elaborate vertebral structures."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

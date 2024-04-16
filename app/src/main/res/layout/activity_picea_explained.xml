@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PiceaExplained">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Picea"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A spruce is a tree of the genus Picea, a genus of about 35 species of coniferous evergreen trees in the family Pinaceae, found in the northern temperate and boreal (taiga) regions of the Earth. Picea is the sole genus in the subfamily Piceoideae. Spruces are large trees, from about 20–60 m (about 60–200 ft) tall when mature, and have whorled branches and conical form."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="284dp"
+            android:src="@drawable/picea"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="They can be distinguished from other members of the pine family by their needles (leaves), which are four-sided and attached singly to small persistent peg-like structures (pulvini or sterigmata) on the branches, and by their cones (without any protruding bracts), which hang downwards after they are pollinated. The needles are shed when 4–10 years old, leaving the branches rough with the retained pegs. In other similar genera, the branches are fairly smooth."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Etymology"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Polish phrase z Prus (from Prussia, a region now part of Poland) sounds to English ears like spruce. Spruce, spruse (1412), and Sprws (1378) seem to have been generic terms for commodities brought to England by Hanseatic merchants (especially beer, boards, wooden chests and leather), and the tree thus was believed to be particular to Prussia, which for a time was figurative in England as a land of luxuries. It can be argued that the word is actually derived from the Old French term Pruce, meaning literally Prussia."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Uses"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spruce is useful as a building wood, commonly referred to by several different names including North American timber, SPF (spruce, pine, fir) and whitewood (the collective name for spruce wood). Spruce wood is used for many purposes, ranging from general construction work and crates to highly specialised uses in wooden aircraft. The Wright brothers' first aircraft, the Flyer, was built of spruce."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spruce is one of the most important woods for paper uses, as it has long wood fibres which bind together to make strong paper. The fibres are thin walled and collapse to thin bands upon drying. Spruces are commonly used in mechanical pulping as they are easily bleached. Together with northern pines, northern spruces are commonly used to make NBSK. Spruces are cultivated over vast areas as pulpwood."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The fresh shoots of many spruces are a natural source of vitamin C. Captain Cook made alcoholic sugar-based spruce beer during his sea voyages in order to prevent scurvy in his crew. The leaves and branches, or the essential oils, can be used to brew spruce beer. The tips from the needles can be used to make spruce tip syrup. In survival situations spruce needles can be directly ingested or boiled into a tea. This replaces large amounts of vitamin C. Also, water is stored in a spruce's needles, providing an alternative means of hydration. Spruce can be used as a preventive measure for scurvy in an environment where meat is the only prominent food source."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spruce is the standard material used in soundboards for many musical instruments, including guitars, mandolins, cellos, violins, and the soundboard at the heart of a piano and the harp. Wood used for this purpose is referred to as tonewood. Spruce, along with cedar, is often used for the soundboard/top of an acoustic guitar. The main types of spruce used for this purpose are Sitka, Engelmann, Adirondack and European spruces."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

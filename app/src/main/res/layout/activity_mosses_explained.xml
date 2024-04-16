@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MossesExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="ExtraText">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Funaria"
+        android:textStyle="bold"
+        android:textColor="#7CB342"
+        android:textSize="25dp"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Funaria is a genus of approximately 210 species of moss. Funaria hygrometrica is the most common species. Funaria hygrometrica is called “cord moss” because of the twisted seta which is very hygroscopic and untwists when moist. The name is derived from the Latin word “funis”, meaning a rope. In funaria root like structures called Rhizoids are present."
+        android:textSize="18dp"
+        android:padding="10dp"
+        android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/funaria1"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Moss plant Funaria grows in dense patches or cushions in moist shady and cool places during the rainy seasons. It has a height of 3–5 cm, a radial symmetry with a differentiation of an axis or stem, leaves or phylloids are multicellular colorless branched rhizoids with oblique septa."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Polytrichum"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Polytrichum is a genus of mosses commonly called haircap moss or hair moss which contains approximately 70 species that cover a cosmopolitan distribution."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/polytrichum"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The genus Polytrichum has a number of closely related sporophytic characters. The scientific name is derived from the Ancient Greek words polys, meaning many, and thrix, meaning hair. This name was used in ancient times to refer to plants with fine, hairlike parts, including mosses, but this application specifically refers to the hairy calyptras found on young sporophytes."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sphagnum"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sphagnum is a genus of approximately 380 accepted species[2][3] of mosses, commonly known as peat moss though they are different as peat moss has a higher acidic pH level."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/sphagnum"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accumulations of Sphagnum can store water, since both living and dead plants can hold large quantities of water inside their cells; plants may hold 16 to 26 times as much water as their dry weight, depending on the species.[4] The empty cells help retain water in drier conditions."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hence, as sphagnum moss grows, it can slowly spread into drier conditions, forming larger mires, both raised bogs and blanket bogs.Thus, Sphagnum can influence the composition of such habitats, with some describing Sphagnum as 'habitat manipulators'."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

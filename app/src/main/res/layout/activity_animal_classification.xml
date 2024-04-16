@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/animalbackground"
+    tools:context=".AnimalClassification">
+
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Arthopoda"
+        android:textSize="13sp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FAFAFA"
+        android:layout_above="@+id/fishbtn"
+        android:id="@+id/Arthopodanbtn"
+        android:background="@drawable/btnbg2"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="Fish"
+        android:textSize="13sp"
+        android:id="@+id/fishbtn"
+        android:layout_above="@+id/Amphibiabtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg2"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="Amphibia"
+        android:textSize="13sp"
+        android:id="@+id/Amphibiabtn"
+        android:layout_above="@+id/Reptilesbtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg2"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="Reptiles"
+        android:textSize="13sp"
+        android:id="@+id/Reptilesbtn"
+        android:layout_centerVertical="true"
+
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg2"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="Birds"
+        android:textSize="13sp"
+        android:id="@+id/Birdsbtn"
+        android:layout_below="@+id/Reptilesbtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg2"
+        />
+
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="Mammals"
+        android:textSize="13sp"
+        android:id="@+id/Mammalsbtn"
+        android:layout_below="@+id/Birdsbtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg2"
+        />
+
+
+
+
+
+
+</RelativeLayout>

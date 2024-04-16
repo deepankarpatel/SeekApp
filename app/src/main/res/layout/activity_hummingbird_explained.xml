@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".HummingbirdExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hummingbird"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hummingbirds are birds native to the Americas and constituting the biological family Trochilidae. They are the smallest of birds, most species measuring 7.5–13 cm (3–5 in) in length. The smallest extant hummingbird species is the 5 cm (2.0 in) bee hummingbird, which weighs less than 2.0 g (0.07 oz). The largest hummingbird species is the 23 cm (9.1 in) giant hummingbird, weighing 18–24g (0.63–0.85 oz)."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/hummingbird"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="They are known as hummingbirds because of the humming sound created by their beating wings, which flap at high frequencies audible to humans. They hover in mid-air at rapid wing-flapping rates, which vary from around 12 beats per second in the largest species, to in excess of 80 in some of the smallest. Of those species that have been measured in wind tunnels, their top speeds exceed 15 m/s (54 km/h; 34 mph) and some species can dive at speeds in excess of 22 m/s (79 km/h; 49 mph)."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Evolution"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A map of the hummingbird family tree – reconstructed from analysis of 284 of the world's 338 known species – shows rapid diversification from 22 million years ago. Hummingbirds fall into nine main clades, the topazes, hermits, mangoes, brilliants, coquettes, Patagona, mountain gems, bees, and emeralds, defining their relationship to nectar-bearing flowering plants and the birds' continued spread into new geographic areas."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="While all hummingbirds depend on flower nectar to fuel their high metabolisms and hovering flight, coordinated changes in flower and bill shape stimulated the formation of new species of hummingbirds and plants. Due to this exceptional evolutionary pattern, as many as 140 hummingbird species can coexist in a specific region, such as the Andes range."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reproduction"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="As far as is known, male hummingbirds do not take part in nesting.  Most species build a cup-shaped nest on the branch of a tree or shrub, although a few tropical species normally attach their nests to leaves. The nest varies in size relative to the particular species – from smaller than half a walnut shell to several centimeters in diameter. "
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Many hummingbird species use spider silk and lichen to bind the nest material together and secure the structure. The unique properties of the silk allow the nest to expand as the young hummingbirds grow. Two white eggs are laid, which despite being the smallest of all bird eggs, are in fact large relative to the adult hummingbird's size. Incubation lasts 14 to 23 days, depending on the species, ambient temperature, and female attentiveness to the nest. The mother feeds her nestlings on small arthropods and nectar by inserting her bill into the open mouth of a nestling, and then regurgitating the food into its crop. Hummingbirds stay in the nest for 18–22 days, after which they leave the nest to forage on their own, although the mother bird may continue feeding them for another 25 days."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

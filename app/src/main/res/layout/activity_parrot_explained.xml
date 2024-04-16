@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".ParrotExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parrot"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parrots are birds of the roughly 393 species in 92 genera comprising the order Psittaciformes, found mostly in tropical and subtropical regions. The order is subdivided into three superfamilies: the Psittacoidea (true parrots), the Cacatuoidea (cockatoos), and the Strigopoidea (New Zealand parrots). One-third of all parrot species are threatened by extinction, with higher aggregate extinction risk (IUCN Red List Index) than any other comparable bird group."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/parrot"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parrots have a generally pantropical distribution with several species inhabiting temperate regions in the Southern Hemisphere, as well. The greatest diversity of parrots is in South America and Australasia."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Morphology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Living species range in size from the buff-faced pygmy parrot, at under 10 g (0.4 oz) in weight and 8 cm (3.1 in) in length, to the hyacinth macaw, at 1 m (3.3 ft) in length, and the kakapo, at 4.0 kg (8.8 lb) in weight.  Among the superfamilies, the three extant Strigopoidea species are all large parrots, and the cockatoos tend to be large birds, as well. The Psittacoidea parrots are far more variable, ranging the full spectrum of sizes shown by the family."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The most obvious physical characteristic is the strong, curved, broad bill. The upper mandible is prominent, curves downward, and comes to a point. It is not fused to the skull, which allows it to move independently, and contributes to the tremendous biting pressure the birds are able to exert. A large macaw, for example, has a bite force of 35 kg/cm2 (500 lb/sq in), close to that of a large dog."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distribution and habitat"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parrots are found on all tropical and subtropical continents and regions including Australia and Oceania, South Asia, Southeast Asia, Central America, South America, and Africa. Some Caribbean and Pacific islands are home to endemic species. By far the greatest number of parrot species come from Australasia and South America. The lories and lorikeets range from Sulawesi and the Philippines in the north to Australia and across the Pacific as far as French Polynesia, with the greatest diversity being found in and around New Guinea. The subfamily Arinae encompasses all the neotropical parrots, including the amazons, macaws, and conures, and ranges from northern Mexico and the Bahamas to Tierra del Fuego in the southern tip of South America. The pygmy parrots, tribe Micropsittini, form a small genus restricted to New Guinea and the Solomon Islands."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

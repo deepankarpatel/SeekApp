@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".HorseExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Horse"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The horse  is one of two extant subspecies of Equus ferus. It is an odd-toed ungulate mammal belonging to the taxonomic family Equidae. The horse has evolved over the past 45 to 55 million years from a small multi-toed creature, Eohippus, into the large, single-toed animal of today. Humans began domesticating horses around 4000 BC, and their domestication is believed to have been widespread by 3000 BC."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="330dp"
+            android:src="@drawable/horse"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Horses in the subspecies caballus are domesticated, although some domesticated populations live in the wild as feral horses. These feral populations are not true wild horses, as this term is used to describe horses that have never been domesticated, such as the endangered Przewalski's horse, a separate subspecies, and the only remaining true wild horse. There is an extensive, specialized vocabulary used to describe equine-related concepts, covering everything from anatomy to life stages, size, colors, markings, breeds, locomotion, and behavior."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Behavior"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Horses are prey animals with a strong fight-or-flight response. Their first reaction to a threat is to startle and usually flee, although they will stand their ground and defend themselves when flight is impossible or if their young are threatened.They also tend to be curious; when startled, they will often hesitate an instant to ascertain the cause of their fright, and may not always flee from something that they perceive as non-threatening. Most light horse riding breeds were developed for speed, agility, alertness and endurance; natural qualities that extend from their wild ancestors. However, through selective breeding, some breeds of horses are quite docile, particularly certain draft horses."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Horses are herd animals, with a clear hierarchy of rank, led by a dominant individual, usually a mare. They are also social creatures that are able to form companionship attachments to their own species and to other animals, including humans. They communicate in various ways, including vocalizations such as nickering or whinnying, mutual grooming, and body language. Many horses will become difficult to manage if they are isolated, but with training, horses can learn to accept a human as a companion, and thus be comfortable away from other horses."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Domestication"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Domestication of the horse most likely took place in central Asia prior to 3500 BC. Two major sources of information are used to determine where and when the horse was first domesticated and how the domesticated horse spread around the world. The first source is based on palaeological and archaeological discoveries; the second source is a comparison of DNA obtained from modern horses to that from bones and teeth of ancient horse remains. The earliest archaeological evidence for the domestication of the horse comes from sites in Ukraine and Kazakhstan, dating to approximately 3500–4000 BC. By 3000 BC, the horse was completely domesticated and by 2000 BC there was a sharp increase in the number of horse bones found in human settlements in northwestern Europe, indicating the spread of domesticated horses throughout the continent. The most recent, but most irrefutable evidence of domestication comes from sites where horse remains were interred with chariots in graves of the Sintashta and Petrovka cultures c. 2100 BC."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

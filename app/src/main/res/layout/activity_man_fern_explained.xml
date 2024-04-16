@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ManFernExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Man Fern"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dicksonia antarctica, the soft tree fern or man fern, is a species of evergreen tree fern native to eastern Australia, ranging from south-east Queensland, coastal New South Wales and Victoria to Tasmania."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="276dp"
+            android:src="@drawable/manfern"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="These ferns can grow to 15 m (49 ft) in height, but more typically grow to about 4.5–5 m (15–16 ft), and consist of an erect rhizome forming a trunk. They are very hairy at the base of the stipe (trunk). The large, dark green, roughly-textured fronds spread in a canopy of 2–6 m (6 ft 7 in–19 ft 8 in) in diameter. The shapes of the stems vary as some grow curved and there are multi-headed ones. The fronds are borne in flushes, with fertile and sterile fronds often in alternating layers."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reproduction"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reproduction by this species is primarily from spores, but it can also be grown from plantlets occurring around the base of the rhizome. In cultivation, it can also be grown as a cutting, a method not to be encouraged unless the tree-fern is doomed to die in its present position. This involves sawing the trunk through, usually at ground level, and removing the fronds; the top part will form roots and regrow, but the base will die."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Habitat"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The fern grows on damp, sheltered woodland slopes and moist gullies, and they occasionally occur at high altitudes in cloud forests. Dicksonia antarctica is the most abundant tree fern in South Eastern Australia. The plant can grow in acid, neutral and alkaline soils. It can grow in semi-shade. It strongly resents drought or dryness at the roots, and does best in moist soil."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

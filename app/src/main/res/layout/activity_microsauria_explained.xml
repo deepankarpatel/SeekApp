@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MicrosauriaExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Microsauria"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Microsauria (small lizards) is an extinct order of possibly polyphyletic tetrapods from the late Carboniferous and early Permian periods. It is the most diverse and species-rich group of lepospondyls."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="260dp"
+            android:src="@drawable/microsuria"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recently, Microsauria has been considered paraphyletic, as several other non-microsaur lepospondyl groups such as Lysorophia seem to be nested in it. Microsauria is now commonly used as a collective term for the grade of lepospondyls that were originally classified as members of Microsauria."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distribution"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Microsaur remains have been found from Europe and North America in Late Carboniferous and Early Permian localities. Most North American microsaurs have been found in the United States in Arizona, Texas, Oklahoma, Ohio, Illinois, as well as Kansas and Nebraska, although remains have also been found in Nova Scotia. In Europe, microsaurs are known from Germany and the Czech Republic. Possible microsaur remains have also been found from strata in the town of Vyazniki in the Vladimir Oblast of Russia. These strata are Late Permian in age, near the Permo-Triassic boundary. The microsaur material at Vyazniki may be the youngest record of microsaurs, and would extend their range by around 20 million years."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".ChameleonExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chameleon"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chameleons or chamaeleons are a distinctive and highly specialized clade of Old World lizards with 202 species described as of June 2015. These species come in a range of colors, and many species have the ability to change color."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/chameleon"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chameleons are distinguished by their zygodactylous feet; their very extensive, highly modified, rapidly extrudable tongues; their swaying gait and crests or horns on their brow and snout. Most species, the larger ones in particular, also have a prehensile tail. Chameleons' eyes are independently mobile, but in aiming at a prey item, they focus forward in coordination, affording the animal stereoscopic vision."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Change of color"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Some chameleon species are able to change their skin colouration. Different chameleon species are able to vary their colouration and pattern through combinations of pink, blue, red, orange, green, black, brown, light blue, yellow, turquoise, and purple.  Chameleon skin has a superficial layer which contains pigments, and under the layer are cells with guanine crystals. Chameleons change colour by changing the space between the guanine crystals, which changes the wavelength of light reflected off the crystals which changes the colour of the skin."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Colour change in chameleons has functions in camouflage, but most commonly in social signaling and in reactions to temperature and other conditions. The relative importance of these functions varies with the circumstances, as well as the species. Colour change signals a chameleon's physiological condition and intentions to other chameleons. Because chameleons are ectothermic, another reason why they change color is to regulate their body temperatures, either to a darker color to absorb light and heat to raise their temperature, or to a lighter color to reflect light and heat, thereby either stabilizing or lowering their body temperature."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chameleons vary greatly in size and body structure, with maximum total lengths varying from 15 mm (0.59 in) in male Brookesia micra (one of the world's smallest reptiles) to 68.5 cm (27.0 in) in the male Furcifer oustaleti. Many have head or facial ornamentation, such as nasal protrusions, or horn-like projections in the case of Trioceros jacksonii, or large crests on top of their heads, like Chamaeleo calyptratus. Many species are sexually dimorphic, and males are typically much more ornamented than the female chameleons. The feet of chameleons are highly adapted to arboreal locomotion, and species such as Chamaeleo namaquensis that have secondarily adopted a terrestrial habit have retained the same foot morphology with little modification. On each foot, the five clearly distinguished toes are grouped into two fascicles. The toes in each fascicle are bound into a flattened group of either two or three, giving each foot a tongs-like appearance. On the front feet, the outer, lateral, group contains two toes, whereas the inner, medial, group contains three. On the rear feet, this arrangement is reversed, the medial group containing two toes, and the lateral group three."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="These specialized feet allow chameleons to grip tightly onto narrow or rough branches. Furthermore, each toe is equipped with a sharp claw to afford a grip on surfaces such as bark when climbing. It is common to refer to the feet of chameleons as didactyl or zygodactyl, though neither term is fully satisfactory, both being used in describing totally different feet, such as the zygodactyl feet of parrots or didactyl feet of sloths or ostriches, none of which is significantly like chameleon feet. Although zygodactyl is reasonably descriptive of chameleon foot anatomy, their foot structure does not resemble that of parrots, to which the term was first applied. As for didactyly, chameleons visibly have five toes on each foot, not two."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

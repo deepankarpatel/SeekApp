@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MonocotyledonsExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Orchidaceae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Orchidaceae are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant, commonly known as the orchid family."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="270dp"
+            android:src="@drawable/orchidaceae"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Along with the Asteraceae, they are one of the two largest families of flowering plants. The Orchidaceae have about 28,000 currently accepted species, distributed in about 763 genera. The determination of which family is larger is still under debate, because verified data on the members of such enormous families are continually in flux. Regardless, the number of orchid species is nearly equal to the number of bony fishes, more than twice the number of bird species, and about four times the number of mammal species."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Arecaceae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Arecaceae are a botanical family of perennial flowering plants in the monocot order Arecales. Their growth form can be climbers, shrubs, tree-like and stemless plants, all commonly known as palms. Those having a tree-like form are colloquially called palm trees."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/arecaceae"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Palms are among the best known and most extensively cultivated plant families. They have been important to humans throughout much of history. Many common products and foods are derived from palms. In contemporary times, palms are also widely used in landscaping, making them one of the most economically important plants. In many historical cultures, because of their importance as food, palms were symbols for such ideas as victory, peace, and fertility. For inhabitants of cooler climates today, palms symbolize the tropics and vacations."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bamboo"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bamboo are evergreen perennial flowering plants in the subfamily Bambusoideae of the grass family Poaceae. The word bamboo comes from the Dutch or Portuguese languages, which probably borrowed it from Malay."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/bamboo"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In bamboo, as in other grasses, the internodal regions of the stem are usually hollow and the vascular bundles in the cross-section are scattered throughout the stem instead of in a cylindrical arrangement. The dicotyledonous woody xylem is also absent. The absence of secondary growth wood causes the stems of monocots, including the palms and large bamboos, to be columnar rather than tapering."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Musaceae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Musaceae is a family of flowering plants composed of three genera with ca 91 known species, placed in the order Zingiberales. The family is native to the tropics of Africa and Asia. The plants have a large herbaceous growth habit with leaves with overlapping basal sheaths that form a pseudostem making some members appear to be woody trees. In most treatments, the family has three genera, Musella, Musa and Ensete. Cultivated bananas are commercially important members of the family, and many others are grown as ornamental plants."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="230dp"
+            android:src="@drawable/banana"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LophosoriaQuadripinnataExplained">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lophosoria Quadripinnata"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lophosoria quadripinnata (J.F.Gmel.) C.Chr. is a species of fern that, according to DNA molecular analysis, belongs to the family Dicksoniaceae, where it is placed in the genus Lophosoria. It is found in the Americas spanning from Cuba and Mexico to Chile. In Chile it is present in the area between Talca and Aysén including Juan Fernández Islands."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="276dp"
+            android:src="@drawable/lophosoriaquadripinnata"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" In Argentina it grows only in the humid valleys of western Neuquén and Río Negro Province. Diamondleaf fern is a common name. In Spanish it is known as 'ampe' (from the Mapudungun añpe) or palmilla, but one has to remember that there are several species of ferns called palmillas that have larger or smaller fronds, and which grow in colder climates."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" It is a medium-sized plant, growing to about 4–5 feet (though 10–12 feet in a sheltered place at Arduaine Garden in Argyll, Scotland) and even though the rhizome does not grow a trunk, it is clearly related to the other tree ferns due to features that were apparently already present in their common ancestor, like 'pneumathodes', and the rhizome which changed from the dorsiventral symmetry typical of the other ferns, to a radial symmetry typical of tree ferns."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lophosoria quadripinnata is a vascular plant with two alternating generations, a sporophyte and a gametophyte, multicellular and independent; with spores as a means of dispersion and survival. The gametophyte is a thallus (undifferentiated tissue), and the sporophyte is a corm (with roots, shoots, and a vascular system). Due to these characteristics it is usually classified as a pteridophyte. They have sporophytes with megaphylls or fronds (Euphyllophytina)."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Economic importance"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="It is used as an ornamental plant in parks and gardens, as well as cut foliage in flower bouquets. The plants used in latter are removed from their natural environment, creating certain local conservation issues. Some local markets in the south of Chile sell their sprouts, called perritos, for consuming in salads"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

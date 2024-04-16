@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlueTangExplained">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Blue tang"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Paracanthurus hepatus is a species of Indo-Pacific surgeonfish. A popular fish in marine aquaria, it is the only member of the genus Paracanthurus. A number of common names are attributed to the species, including regal tang, palette surgeonfish, blue tang (leading to confusion with the Atlantic species Acanthurus coeruleus), royal blue tang, hippo tang, blue hippo tang, flagtail surgeonfish, Pacific regal blue tang, and blue surgeonfish."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/bluetang"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Paracanthurus hepatus has a royal blue body, yellow tail, and black palette design. The lower body is yellow in the west-central Indian Ocean. It grows to 30 cm (12 in). Adults typically weigh around 600 g (21 oz) and males are generally larger than females. This fish is rather flat, like a pancake, with a circular body shape, a pointed snout-like nose, and small scales. The blue tang has nine dorsal spines, 26–28 dorsal soft rays, three anal spines, and 24–26 anal soft yellow rays."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Life cycle"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Males aggressively court female members of the school, leading to a quick upward spawning rush toward the surface of the water during which eggs and sperm are released. The eggs are small, approximately 0.8 mm in diameter. The eggs are pelagic, each containing a single droplet of oil for flotation. The fertilized eggs hatch in twenty-four hours, revealing small, translucent larvae with silvery abdomens and rudimentary caudal spines. These fish reach sexual maturity at 9–12 months of age."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

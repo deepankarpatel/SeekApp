@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CycasExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cycas"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cycas is a genus of plants belonging to a very ancient lineage, the Cycadophyta, which are not closely related to palms. ferns, trees or any other modern group of plants."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="270dp"
+            android:src="@drawable/cycas"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="They are evergreen perennials which achieved their maximum diversity in the Jurassic and Cretaceous periods, when they were distributed almost worldwide. At the end of the Cretaceous, when the non-avian dinosaurs became extinct, so did most of the cycas in the Northern Hemisphere."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cycas is the type genus and the only genus recognised in the family Cycadaceae. About 113 species are accepted. Cycas circinalis, a species endemic to India, was the first cycad species to be described in western literature, and was the type of the generic name, Cycas. The best-known Cycas species is Cycas revoluta."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Evolution"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The earliest fossils of the genus Cycas appear in the Cenozoic although Cycas-like fossils that may belong to Cycadaceae extend well into the Mesozoic. Cycas is not closely related to other genera of cycads, and phylogenetic studies have shown that Cycadaceae is the sister-group to all other extant cycads. Cycas is thought to retain a number of ancestral characters that have been modified in the other cycads (Stangeriaceae and Zamiaceae): in particular, the ovulate ('female') cone has very large ovules attached to megasporophylls that are held in a lax rosette rather than in the tight cone found in other cycads."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reproduction"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The plant takes several years to grow, sexual reproduction takes place after 10 years of exclusive vegetative growth which occurs by bulbils arising at the base of the trunk."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

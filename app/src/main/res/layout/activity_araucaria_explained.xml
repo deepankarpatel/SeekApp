@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AraucariaExplained">
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Araucaria"
+           android:textStyle="bold"
+           android:textColor="#7CB342"
+           android:textSize="25sp"
+           android:padding="10dp"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Araucaria is a genus of evergreen coniferous trees in the family Araucariaceae. There are 20 extant species in New Caledonia (where 14 species are endemic, see New Caledonian Araucaria), Norfolk Island, eastern Australia, New Guinea, Argentina, Chile, Brazil, and Paraguay."
+           android:textSize="18sp"
+           android:padding="10dp"
+           android:textColor="#000000"/>
+
+       <ImageView
+           android:layout_width="wrap_content"
+           android:layout_height="275dp"
+           android:src="@drawable/araucaria"
+           />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Description"
+           android:textStyle="bold"
+           android:textColor="#7CB342"
+           android:textSize="25sp"
+           android:padding="10dp"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Araucaria are mainly large trees with a massive erect stem, reaching a height of 5–80 metres (16–262 ft). The horizontal, spreading branches grow in whorls and are covered with leathery or needle-like leaves. In some species, the leaves are narrow, awl-shaped and lanceolate, barely overlapping each other; in others they are broad and flat, and overlap broadly."
+           android:textSize="18sp"
+           android:padding="10dp"
+           android:textColor="#000000"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="The trees are mostly dioecious, with male and female cones found on separate trees, Though occasional individuals are monoecious or change sex with time. The female cones, usually high on the top of the tree, are globose, and vary in size among species from 7 to 25 centimetres (2.8 to 9.8 in) diameter. They contain 80–200 large edible seeds, similar to pine nuts, though larger. The male cones are smaller, 4–10 cm (1.6–3.9 in) long, and narrow to broad cylindrical, 1.5–5.0 cm (0.6–2.0 in) broad."
+           android:textSize="18sp"
+           android:padding="10dp"
+           android:textColor="#000000"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Uses"
+           android:textStyle="bold"
+           android:textColor="#7CB342"
+           android:textSize="25sp"
+           android:padding="10dp"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Some of the species are relatively common in cultivation because of their distinctive, formal symmetrical growth habit. Several species are economically important for timber production."
+           android:textSize="18sp"
+           android:padding="10dp"
+           android:textColor="#000000"/>
+
+
+   </LinearLayout>
+
+</ScrollView>

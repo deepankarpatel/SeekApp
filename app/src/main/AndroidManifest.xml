@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.firehawk.seekapp">
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/c"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".LionExplained"></activity>
+        <activity android:name=".ApesExplained" />
+        <activity android:name=".HorseExplained" />
+        <activity android:name=".ElephantExplained" />
+        <activity android:name=".DeerExplained" />
+        <activity android:name=".BearExplained" />
+        <activity android:name=".MammalsExampleList" />
+        <activity android:name=".KingfisherExplained" />
+        <activity android:name=".WoodpeckerExplained" />
+        <activity android:name=".SwallowExplained" />
+        <activity android:name=".PenguinExplained" />
+        <activity android:name=".HummingbirdExplained" />
+        <activity android:name=".OwlExplained" />
+        <activity android:name=".ParrotExplained" />
+        <activity android:name=".BirdsExampleList" />
+        <activity android:name=".ChameleonExplained" />
+        <activity android:name=".CrocodileExplained" />
+        <activity android:name=".SnakeExplained" />
+        <activity android:name=".TurtleExplained" />
+        <activity android:name=".LizardExplained" />
+        <activity android:name=".ReptilesExampleList" />
+        <activity android:name=".AmphiumaExplained" />
+        <activity android:name=".MicrosauriaExplained" />
+        <activity android:name=".SalamenderExplained" />
+        <activity android:name=".FrogExplained" />
+        <activity android:name=".AmphibiaExampleList" />
+        <activity android:name=".OcellarisClownfishExplained" />
+        <activity android:name=".SwordFishExplained" />
+        <activity android:name=".BlueTangExplained" />
+        <activity android:name=".NorthanPikeExplained" />
+        <activity android:name=".GuppyExplained" />
+        <activity android:name=".GoldFishExplained" />
+        <activity
+            android:name=".ui.login.GoldFishExplained"
+            android:label="@string/title_activity_gold_fish_explained" />
+        <activity android:name=".CommonCrapExplained" />
+        <activity android:name=".FishExampeList" />
+        <activity android:name=".ButterflyExplained" />
+        <activity android:name=".CrabExplained" />
+        <activity android:name=".CentipedeExplained" />
+        <activity android:name=".ScorpionExplained" />
+        <activity android:name=".SpiderExplained" />
+        <activity android:name=".ArthopodaExampleList" />
+        <activity android:name=".DicotyExplained" />
+        <activity android:name=".MonocotyledonsExplained" />
+        <activity android:name=".AngiospermExampleList" />
+        <activity android:name=".PiceaExplained" />
+        <activity android:name=".CedrusExplained" />
+        <activity android:name=".ThujaExplained" />
+        <activity android:name=".AraucariaExplained" />
+        <activity android:name=".PinusExplained" />
+        <activity android:name=".CycasExplained" />
+        <activity android:name=".GymnospermExampleList" />
+        <activity android:name=".SilverFernExplained" />
+        <activity android:name=".ManFernExplained" />
+        <activity android:name=".EquisetidaeExplained" />
+        <activity android:name=".LophosoriaQuadripinnataExplained" />
+        <activity android:name=".SalviniaNatansExplained" />
+        <activity android:name=".WhiskFernExplained" />
+        <activity android:name=".PteridophytaExampleList" />
+        <activity android:name=".HornwortsExplained" />
+        <activity android:name=".LiverwortsExplained" />
+        <activity android:name=".MossesExplained" />
+        <activity android:name=".BryophytaExampleList" />
+        <activity android:name=".FungiExplained" />
+        <activity android:name=".AlgaeExplained" />
+        <activity android:name=".ThallophytaExampleList" />
+        <activity android:name=".PlantClassification" />
+        <activity android:name=".About" />
+        <activity android:name=".AnimalClassification" />
+        <activity android:name=".ButtonLayout" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

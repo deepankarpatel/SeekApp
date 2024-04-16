@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SalviniaNatansExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Salvinia natans"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Salvinia natans (commonly known as floating fern, floating watermoss, floating moss, or commercially, water butterfly wings) is an annual floating aquatic fern, which can appear superficially similar to moss"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/salvinianatans"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" It is found throughout the world where there is plentiful standing fresh water, sunlight, and humid air, but is especially common in Africa, Asia, central Europe, and South America. In New York State and Massachusetts, it is an introduced species."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Characteristics"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Salvinia natans has two nickel-sized leaves lying flat against the surface of the water, and a third submerged leaf which functions as a root. Flotation is made possible by pouches of air within the leaves. Cuticular papillae on the leaves' surface keep water from interfering with the leaves' functioning, and serve to protect them from decay. Spore cases form at the plant's base for reproduction."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The leaves of S. natans block sunlight from reaching very far underwater. This is helpful to many freshwater fish, providing safe hiding places to breed in, but can interrupt the photosynthesis of many underwater plants. S. natans can eventually cover entire ponds or lakes without ecological competition, starving other plant species."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

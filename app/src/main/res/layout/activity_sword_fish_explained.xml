@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SwordFishExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sword fish"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Swordfish (Xiphias gladius), also known as broadbills in some countries, are large, highly migratory, predatory fish characterized by a long, flat, pointed bill. They are a popular sport fish of the billfish category, though elusive. Swordfish are elongated, round-bodied, and lose all teeth and scales by adulthood. These fish are found widely in tropical and temperate parts of the Atlantic, Pacific, and Indian Oceans, and can typically be found from near the surface to a depth of 550 m (1,800 ft), and exceptionally up to depths of 2,234 m."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/swordfish"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="They commonly reach 3 m (9.8 ft) in length, and the maximum reported is 4.55 m (14.9 ft) in length and 650 kg (1,430 lb) in weight."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Behavior and ecology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contrary to popular belief, the sword is not used to spear, but instead may be used to slash at its prey to injure the prey animal, to make for an easier catch. Mainly, the swordfish relies on its great speed and agility in the water to catch its prey. It is no doubt among the fastest fish, but the basis for the frequently quoted speed of 97 km/h (60 mph) is unreliable. Research on related marlin (Istiophorus platypterus) suggest a maximum value of 36 km/hr (22 mph) is more likely."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Breeding"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In the North Pacific, batch spawning mainly occurs in water warmer than 24 °C (75 °F) during the spring and summer, and year-round in the equatorial Pacific.  In the North Atlantic, spawning is known from the Sargasso Sea, and in water warmer than 23 °C (73 °F) and less than 75 m (246 ft) deep. Spawning occurs from November to February in the South Atlantic off southern Brazil. Spawning is year-round in the Caribbean Sea and other warm regions of the west Atlantic."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

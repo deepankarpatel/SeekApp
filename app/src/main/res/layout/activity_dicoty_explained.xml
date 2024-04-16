@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DicotyExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Campanulales"
+        android:textStyle="bold"
+        android:textColor="#7CB342"
+        android:textSize="25sp"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Campanulales is a valid botanic name for a plant order. It was used in the Cronquist system as an order within the subclass Asteridae in the class Magnoliopsida flowering plants. As then circumscribed it included the families:"
+        android:textSize="18sp"
+        android:padding="10dp"
+        android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/campanulales"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pentaphragmataceae In Watson and Dallwitz this family has 1 genus, Pentaphragma with 30 species from southeast Asia.
+Sphenocleaceae - 1 genus
+Campanulaceae (harebells) - 28 genera
+Stylidiaceae In Watson and Dallwitz it has 5 genera and 150 species.
+Donatiaceae
+Brunoniaceae In Watson and Dallwitz there is only one species in the family, Brunonia australis
+Goodeniaceae (naupaka) - 1 genus
+Campanulales is not recognized as an order in the APG II system, where the families are included in order Asterales, except for Sphenocleaceae in Solanales."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Urticales"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Urticales is a botanical name for what used to be an order of flowering plants. Before molecular phylogenetics became an important part of plant taxonomy, Urticales was recognized in many, perhaps even most, systems of plant classification, with some variations in circumscription. Among these is the Cronquist system (1981), which placed the order in the subclass Hamamelidae [sic], as comprising:"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Barbeyaceae"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Cannabaceae"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Cecropiaceae"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Moraceae"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Ulmaceae"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Urticaceae"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In the APG III system (2009), the plants belonging to this order, along with four other families, constitute the order Rosales. Cecropiaceae is no longer recognized as separate from Urticaceae. The families Ulmaceae, Cannabaceae, Moraceae, and Urticaceae form a clade that has strong statistical support in phylogenetic analyses of DNA sequences.[1] This clade has been informally called the urticalean rosids."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Austrobaileyales"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Austrobaileyales is an order of flowering plants consisting of about 100 species of woody plants growing as trees, shrubs and lianas. Perhaps the most familiar species is Illicium verum, from which comes the spice star anise."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/austrobaileyales"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The order belongs to the group of basal angiosperms, the ANA grade (Amborellales, Nymphaeales, and Austrobaileyales), which diverged earlier from the remaining flowering plants. Austrobaileyales is sister to all remaining extant angiosperms outside the ANA grade. The order includes just three families of flowering plants, the Austrobaileyaceae, a monotypic family containing the sole genus, Austrobaileya scandens, a woody liana, the Schisandraceae, a family of trees, shrubs, or lianas containing essential oils, and the Trimeniaceae, essential oil-bearing trees and lianas."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Schisandraceae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Schisandraceae is a family of flowering plants with 3 known genera and a total of 92 known species (Luo et al., 2018 [open access] list all known species with their geographic occurrence). Such a family has been recognized by most taxonomists, at least for the past several decades. Before that, the plants concerned were assigned to family Magnoliaceae and Illiciaceae."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/schisandraceae"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The APG IV and APG III systems of taxonomy recognize this family and place it on the order Austrobaileyales. The APG II system, of 2003, also recognizes such a family. It places the family in order Austrobaileyales, which in turn is accepted as being among the most basic lineages in the clade angiosperms. APG II assumes this to be a family of three genera, the Schisandraceae sensu lato. This family consists of woody plants, containing essential oils."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="However, APG II does allow the option of segregating the genus Illicium as the family Illiciaceae. This leaves only two genera in the family Schisandraceae sensu stricto, consisting of Schisandra and Kadsura, totalling several dozen species, which are found in tropical to temperate regions of East and Southeast Asia and North America"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

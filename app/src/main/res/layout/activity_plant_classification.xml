@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/plantsbg2"
+    tools:context=".PlantClassification">
+
+    <Button
+        android:layout_width="300dp"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="thallophyte"
+        android:textSize="13sp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/thallophytabtn"
+        android:layout_above="@+id/bryophytabtn"
+        android:background="@drawable/btnbg3"
+        />
+
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="bryophyta"
+        android:layout_centerHorizontal="true"
+        android:textSize="13sp"
+        android:textColor="#FAFAFA"
+        android:layout_above="@+id/pteridophytabtn"
+        android:id="@+id/bryophytabtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg3"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="pteridophyta"
+        android:textSize="13sp"
+        android:id="@+id/pteridophytabtn"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btnbg3"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:textColor="#FAFAFA"
+        android:layout_height="wrap_content"
+        android:text="gymnosperms"
+        android:textSize="13sp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/gymnospermsbtn"
+        android:layout_below="@+id/pteridophytabtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg3"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:textColor="#FAFAFA"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="angiosperms"
+        android:textSize="13sp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/angiospermsbtn"
+        android:layout_below="@+id/gymnospermsbtn"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btnbg3"
+        />
+
+
+
+
+</RelativeLayout>

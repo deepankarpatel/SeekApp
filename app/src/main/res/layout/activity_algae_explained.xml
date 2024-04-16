@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".AlgaeExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What are Algae?"
+        android:textStyle="bold"
+        android:textColor="#7CB342"
+        android:textSize="25dp"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Algae exist in environments ranging from oceans, rivers, and lakes to ponds, brackish waters, and even snow. Algae are usually green, but they can be found in a variety of different colours. For instance, algae living in snow contain carotenoid pigments in addition to chlorophyll, hence giving the surrounding snow a distinctive red hue."
+        android:padding="5dp"
+        android:textSize="18dp"
+        android:textColor="#000000"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/algae1"
+        android:layout_gravity="center"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Algae Definition"
+        android:textStyle="bold"
+        android:textColor="#7CB342"
+        android:textSize="25dp"
+        android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:padding="10dp"
+            android:textSize="18dp"
+            android:text="“Alga is a term that describes a large and incredibly diverse group of eukaryotic, photosynthetic lifeforms. These organisms do not share a common ancestor and hence, are not related to each other (polyphyletic).”"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Characteristics of Algae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="18dp"
+            android:text="Specific general characteristics of algae are common to plants as well as animals.For instance, algae can photosynthesize like plants, and they possess specialized structures and cell-organelles, like centrioles and flagella, found only in animals. Listed below are some of the general characteristics of algae."
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Algae are photosynthetic organisms."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Algae can be either unicellular or multicellular organisms."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Algae lack a well-defined body, so, structures like roots, stems or leaves are absent."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Algaes are found where there is adequate moisture."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Reproduction in algae occurs in both asexual and sexual forms. Asexual reproduction occurs by spore formation."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Algae are free-living, although some can form a symbiotic relationship with other organisms."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Types of Algae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="There are many types of algae; however, these are some of the more prominent types:"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Red Algae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="20dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Also called Rhodophyta, it is a distinctive species found in marine as well as freshwater ecosystems. The pigments phycocyanin and phycoerythrin are responsible for the characteristic red colouration of the algae. Other pigments that provide green colouration (such as chlorophyll A) are present. However, they lack chlorophyll B or beta-carotene."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Green Algae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="20dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="It is a large, informal grouping of algae having the primary photosynthetic pigments chlorophyll A and B, along with auxiliary pigments such as xanthophylls and beta carotene.
+
+Higher organisms use green algae to conduct photosynthesis for them. Other species of green algae have a symbiotic relationship with other organisms.
+
+Members are unicellular and colonial flagellates. Prominent examples of green algae include Paramecium and hydra."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Examples of Algae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prominent examples of algae include:"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Nostoc"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Fucus"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Diatoms"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Spirogyra"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Other less, well-known examples of algae include:"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Microcystis"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Duckweed"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*Pandorina"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".WoodpeckerExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Woodpecker"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Woodpeckers are part of the family Picidae, that also includes the piculets, wrynecks, and sapsuckers. Members of this family are found worldwide, except for Australia, New Guinea, New Zealand, Madagascar, and the extreme polar regions. Most species live in forests or woodland habitats, although a few species are known that live in treeless areas, such as rocky hillsides and deserts, and the Gila woodpecker specialises in exploiting cacti."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/woodpacker"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Members of this family are chiefly known for their characteristic behaviour. They mostly forage for insect prey on the trunks and branches of trees, and often communicate by drumming with their beak, producing a reverberatory sound that can be heard at some distance. Some species vary their diet with fruits, birds' eggs, small animals, and tree sap, human scraps, and carrion. They mostly nest and roost in holes that they excavate in tree trunks, and their abandoned holes are of importance to other cavity-nesting birds. They sometimes come into conflict with humans when they make holes in buildings or feed on fruit crops, but perform a useful service by their removal of insect pests on trees."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="General characteristics"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Woodpeckers range from tiny piculets measuring no more than 7 cm (2.8 in) in length and weighing 7 g (0.25 oz) to large woodpeckers which can be more than 50 cm (20 in) in length. The largest surviving species is the great slaty woodpecker, which weighs 360–563 g (12.7–19.9 oz), but probably the extinct imperial woodpecker and ivory-billed woodpecker were both larger. "
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The plumage of woodpeckers varies from drab to conspicuous. The colours of many species are based on olive and brown and some are pied, suggesting a need for camouflage; others are boldly patterned in black, white and red, and many have a crest or tufted feathers on the crown. Woodpeckers tend to be sexually dimorphic, but differences between the sexes are generally small; exceptions to this are Williamson's sapsucker and the orange-backed woodpecker, which differ markedly. The plumage is moulted fully once a year apart from the wrynecks, which have an additional partial moult before breeding."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Behaviour"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The majority of woodpeckers live solitary lives, but the spectrum of behaviour ranges from highly antisocial species that are aggressive towards their own kind, to species that live in groups. Solitary species will defend such feeding resources as a termite colony or fruit laden tree, driving away other conspecifics and returning frequently until the resource is exhausted. Aggressive behaviours include bill-pointing and jabbing, head shaking, wing flicking, chasing, drumming and vocalisations. Ritual actions do not usually result in contact and birds may freeze for a while before they resume their dispute. The coloured patches may be flouted, and in some instances, these antagonistic behaviours resemble courtship rituals."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

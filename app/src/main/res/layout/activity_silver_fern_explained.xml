@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SilverFernExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Silver Fern"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alsophila dealbata, synonym Cyathea dealbata, commonly known as the silver fern or silver tree-fern, or as ponga /ˈpɒŋə/ or punga /ˈpʌŋə/ (from Māori kaponga or ponga), is a species of medium-sized tree fern, endemic to New Zealand. The fern is usually recognisable by the silver-white colour of the under-surface of mature fronds. It is a symbol commonly associated with the country both overseas and by New Zealanders themselves."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="270dp"
+            android:src="@drawable/silverfern"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This fern is known to grow to heights of 10 metres (33 ft) or more (though it occasionally takes a rare creeping form). The crown is dense, and mature fronds tend to be about 4 metres (13 ft) long and have a silver-white colouration on the undersides. This distinctive silver colouration has made them useful for laying along tracks for night walking. The scales are a dark brown and are often twisted and glossy. Rhizomes very rarely prostrate, usually erect, forming a woody trunk up to 12 metres (39 ft) tall, 160 to 450 millimetres (6.3 to 17.7 in) in diameter, covered in light brown or white projecting stipe bases; bearing scales near the apex."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Habitat"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Arriving relatively late in New Zealand's history during the Pliocene epoch (around 5.0–1.8 million years ago), the silver fern occurs on the main islands of New Zealand although absent from the west and south regions of the South Island and on the Chatham Islands to the east. Its primary habitat is subcanopy areas of drier forests and in open scrub, although it is occasionally found on bush margins and in more open areas, and has been recorded from amongst rushes in a dune slack."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The fern is known to grow well in well-drained humus, and once established, it will tolerate drier conditions. It does best when sheltered from winds and should be protected from frost."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

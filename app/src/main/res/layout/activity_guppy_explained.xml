@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuppyExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Guppy"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The guppy (Poecilia reticulata), also known as millionfish and rainbow fish, is one of the world's most widely distributed tropical fish and one of the most popular freshwater aquarium fish species. It is a member of the family Poeciliidae and, like almost all American members of the family, is live-bearing."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:src="@drawable/guppy"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Guppies originate from northeast South America, but have been introduced to many habitats and are now found all over the world. They are highly adaptable and thrive in many different environmental and ecological conditions. Male guppies, which are smaller than females, have ornamental caudal and dorsal fins. Wild guppies generally feed on a variety of food sources, including benthic algae and aquatic insect larvae. Guppies are used as a model organism in the fields of ecology, evolution, and behavioural studies"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distribution and habitat"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Guppies were first described in Venezuela as Poecilia reticulata by Wilhelm Peters in 1859 and as Lebistes poecilioides in Barbados by De Filippi in 1861. It was named Girardinus guppii by Albert Günther in honor of Robert John Lechmere Guppy, who sent specimens of the species from Trinidad to the Natural History Museum in London.  It was reclassified as Lebistes reticulatus by Regan in 1913. Then in 1963, Rosen and Bailey brought it back to its original name, Poecilia reticulata. While the taxonomy of the species was frequently changed and resulted in many synonyms, guppy remains the common name even as Girardinus guppii is now considered a junior synonym of Poecilia reticulata."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lifecycle"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Two or three generations of guppies per year occur in the wild. Guppies are well developed and capable of independent existence without further parental care by the time they are born. Young guppies school together and perform antipredator tactics. Brood size is extremely variable, yet some consistent differences exist among populations depending on the predation level and other factors.  Females of matching body sizes tend to produce more numerous but smaller-sized offspring in high-predation conditions. Female guppies first produce offspring at 10–20 weeks of age, and they continue to reproduce until 20–34 months of age. Male guppies mature in 7 weeks or less. Total lifespan of guppies in the wild varies greatly, but it is typically around 2 years. Variations in such life historic characteristics of guppies are observed in different populations, indicating that different evolutionary pressures exist."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

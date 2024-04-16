@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NorthanPikeExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Northan Pike"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The northern pike (Esox lucius) is a species of carnivorous fish of the genus Esox (the pikes). They are typical of brackish and fresh waters of the Northern Hemisphere (i.e. holarctic in distribution). They are known simply as a pike in Britain, Ireland, and most of Canada and the United States."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="270dp"
+            android:src="@drawable/northanpike"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pike can grow to a relatively large size: the average length is about 40–55 cm (16–22 in), with maximum recorded lengths of up to 150 cm (59 in) and published weights of 28.4 kg (63 lb). The IGFA currently recognizes a 25 kg (55 lb) pike caught by Lothar Louis on Greffern Lake, Germany, on 16 October 1986, as the all-tackle world-record northern pike."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Northern pike are most often olive green, shading from yellow to white along the belly. The flank is marked with short, light bar-like spots and a few to many dark spots on the fins. Sometimes, the fins are reddish. Younger pike have yellow stripes along a green body; later, the stripes divide into light spots and the body turns from green to olive green. The lower half of the gill cover lacks scales, and it has large sensory pores on its head and on the underside of its lower jaw which are part of the lateral line system. Unlike the similar-looking and closely related muskellunge, the northern pike has light markings on a dark body background and fewer than six sensory pores on the underside of each side of the lower jaw."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Etymology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The northern pike gets its common name from its resemblance to the pole-weapon known as the pike (from the Middle English for 'pointed'). Various other unofficial trivial names are common pike, Lakes pike, great northern pike, northern (in the U.S. Upper Midwest and in the Canadian provinces of Alberta, Manitoba and Saskatchewan), jackfish, jack, snot rocket, slough shark, snake, slimer, slough snake, gator (due to a head similar in shape to that of an alligator), hammer handle, and other such names as long head or pointy nose. Numerous other names can be found in Field Museum Zool. Leaflet Number 9. Its earlier common name, the luci (now lucy) or luce when fully grown, was used to form its taxonomic name (Esox lucius) and is used in heraldry."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

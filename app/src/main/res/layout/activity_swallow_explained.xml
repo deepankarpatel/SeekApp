@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".SwallowExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Swallow"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The swallows, martins, and saw-wings, or Hirundinidae, are a family of passerine birds found around the world on all continents, including occasionally in Antarctica. Highly adapted to aerial feeding, they have a distinctive appearance. The term swallow is used colloquially in Europe as a synonym for the barn swallow. Around 90 species of Hirundinidae are known,  divided into 19 genera, with the greatest diversity found in Africa, which is also thought to be where they evolved as hole-nesters."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/swallow"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="They also occur on a number of oceanic islands. A number of European and North American species are long-distance migrants; by contrast, the West and South African swallows are nonmigratory. "
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Hirundinidae have an evolutionarily conservative body shape, which is similar across the clade, but is unlike that of other passerines. Swallows have adapted to hunting insects on the wing by developing a slender, streamlined body and long, pointed wings, which allow great maneuverability and endurance, as well as frequent periods of gliding. Their body shapes allow for very efficient flight; the metabolic rate of swallows in flight is 49–72% lower than equivalent passerines of the same size. Swallows have two foveae in each eye, giving them sharp lateral and frontal vision to help track prey. They also have relatively long eyes, with their length almost equaling their width. The long eyes allow for an increase in visual acuity without competing with the brain for space inside of the head. The morphology of the eye in swallows is similar to that of a raptor."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Like the unrelated swifts and nightjars, which hunt in a similar way, they have short bills, but strong jaws and a wide gape. Their body lengths range from about 10–24 cm (3.9–9.4 in) and their weight from about 10–60 g (0.35–2.12 oz). The wings are long, pointed, and have nine primary feathers. The tail has 12 feathers and may be deeply forked, somewhat indented, or square-ended. A long tail increases maneuverability, and may also function as a sexual adornment, since the tail is frequently longer in males. In barn swallows, the tail of the male is 18% longer than those of the female, and females select mates on the basis of tail length."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Behaviour and ecology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Swallows are excellent flyers, and use these skills to feed and attract mates. Some species, such as the mangrove swallow, are territorial, whereas others are not and simply defend their nesting sites. In general, the male selects a nest site, and then attracts a female using song and flight, and (dependent on the species) guard his territory. The size of the territory varies depending on the species of swallow; in colonial-nesting species, it tends to be small, but it may be much larger for solitary nesters. Outside the breeding season, some species may form large flocks, and species may also roost communally. This is thought to provide protection from predators such as sparrowhawks and hobbies."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="These roosts can be enormous; one winter-roosting site of barn swallows in Nigeria attracted 1.5 million individuals. Nonsocial species do not form flocks, but recently fledged chicks may remain with their parents for a while after the breeding season. If a human being gets too close to their territory, swallows attack them within the perimeter of the nest. Colonial species may mob predators and humans that are too close to the colony."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

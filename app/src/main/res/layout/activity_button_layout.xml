@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".ButtonLayout">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnplants"
+        android:background="@drawable/btnbg"
+        android:text="Plants"
+        android:soundEffectsEnabled="true"
+        android:textColor="#ffff"
+        android:textSize="13dp"
+        android:layout_above="@+id/btnanimals"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnanimals"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btnbg"
+        android:soundEffectsEnabled="true"
+        android:textSize="13dp"
+        android:text="Animals"
+        android:textColor="#ffff"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/aboutbtn"
+        android:src="@drawable/about2"
+        android:soundEffectsEnabled="true"
+        android:layout_below="@+id/btnanimals"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:layout_width="272dp"
+        android:layout_height="184dp"
+        android:fontFamily="cursive"
+        android:padding="10dp"
+        android:text="Colors are the smile of the nature."
+        android:textColor="#ffffff"
+        android:textSize="40dp" />
+
+
+
+</RelativeLayout>

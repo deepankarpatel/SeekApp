@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ButterflyExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Butterfly"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Butterflies are insects in the macrolepidopteran clade Rhopalocera from the order Lepidoptera, which also includes moths. Adult butterflies have large, often brightly coloured wings, and conspicuous, fluttering flight. The group comprises the large superfamily Papilionoidea, which contains at least one former group, the skippers (formerly the superfamily Hesperioidea), and the most recent analyses suggest it also contains the moth-butterflies (formerly the superfamily Hedyloidea). Butterfly fossils date to the Paleocene, about 56 million years ago."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/butterfly"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Butterflies have the typical four-stage insect life cycle. Winged adults lay eggs on the food plant on which their larvae, known as caterpillars, will feed. The caterpillars grow, sometimes very rapidly, and when fully developed, pupate in a chrysalis. When metamorphosis is complete, the pupal skin splits, the adult insect climbs out, and after its wings have expanded and dried, it flies off. Some butterflies, especially in the tropics, have several generations in a year, while others have a single generation, and a few in cold locations may take several years to pass through their entire life cycle."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="General description"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Butterfly adults are characterized by their four scale-covered wings, which give the Lepidoptera their name (Ancient Greek λεπίς lepís, scale + πτερόν pterón, wing). These scales give butterfly wings their colour: they are pigmented with melanins that give them blacks and browns, as well as uric acid derivatives and flavones that give them yellows, but many of the blues, greens, reds and iridescent colours are created by structural coloration produced by the micro-structures of the scales and hairs."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="As in all insects, the body is divided into three sections: the head, thorax, and abdomen. The thorax is composed of three segments, each with a pair of legs. In most families of butterfly the antennae are clubbed, unlike those of moths which may be threadlike or feathery. The long proboscis can be coiled when not in use for sipping nectar from flowers."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Life cycle"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Butterflies in their adult stage can live from a week to nearly a year depending on the species. Many species have long larval life stages while others can remain dormant in their pupal or egg stages and thereby survive winters. The Melissa Arctic (Oeneis melissa) overwinters twice as a caterpillar. Butterflies may have one or more broods per year. The number of generations per year varies from temperate to tropical regions with tropical regions showing a trend towards multivoltinism."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Courtship is often aerial and often involves pheromones. Butterflies then land on the ground or on a perch to mate. Copulation takes place tail-to-tail and may last from minutes to hours. Simple photoreceptor cells located at the genitals are important for this and other adult behaviours. The male passes a spermatophore to the female; to reduce sperm competition, he may cover her with his scent, or in some species such as the Apollos (Parnassius) plugs her genital opening to prevent her from mating again."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Behaviour"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Butterflies feed primarily on nectar from flowers. Some also derive nourishment from pollen, tree sap, rotting fruit, dung, decaying flesh, and dissolved minerals in wet sand or dirt. Butterflies are important as pollinators for some species of plants. In general, they do not carry as much pollen load as bees, but they are capable of moving pollen over greater distances. Flower constancy has been observed for at least one species of butterfly."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Adult butterflies consume only liquids, ingested through the proboscis. They sip water from damp patches for hydration and feed on nectar from flowers, from which they obtain sugars for energy, and sodium and other minerals vital for reproduction. Several species of butterflies need more sodium than that provided by nectar and are attracted by sodium in salt; they sometimes land on people, attracted by the salt in human sweat. Some butterflies also visit dung and scavenge rotting fruit or carcasses to obtain minerals and nutrients. In many species, this mud-puddling behaviour is restricted to the males, and studies have suggested that the nutrients collected may be provided as a nuptial gift, along with the spermatophore, during mating."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EquisetidaeExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Equisetidae"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Equisetidae is one of the four subclasses of Polypodiopsida (ferns), a group of vascular plants with a fossil record going back to the Devonian. They are commonly known as horsetails. They typically grow in wet areas, with whorls of needle-like branches radiating at regular intervals from a single vertical stem."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/equisetidae"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Equisetidae were formerly regarded as a separate division of spore plants and called Equisetophyta, Arthrophyta, Calamophyta or Sphenophyta. When treated as a class, the names Equisetopsida s.s. and Sphenopsida have also been used. They are now recognized as rather close relatives of the ferns (Polypodiopsida) of which they form a specialized lineage."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The horsetails comprise photosynthesising, segmented, hollow stems, sometimes filled with pith. At the junction (node, see diagram) between each segment is a whorl of leaves. In the only extant genus Equisetum, these are small leaves (microphylls) with a singular vascular trace, fused into a sheath at each stem node. However, the leaves of Equisetum probably arose by the reduction of megaphylls, as evidenced by early fossil forms such as Sphenophyllum, in which the leaves are broad with branching veins."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The vascular bundles trifurcate at the nodes, with the central branch becoming the vein of a microphyll, and the other two moving left and right to merge with the new branches of their neighbours. The vascular system itself resembles that of the vascular plants' eustele, which evolved independently and convergently. Very rapid internode elongation results in the formation of a pith cavity and a ring of carinal canals formed by disruption of the primary xylem. Similar spaces, the vallecular canals are formed in the cortex. Due to the softer nature of the phloem, these are very rarely seen in fossil instances."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Subdivision"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25dp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Subclass Equisetidae contains a single extant order, Equisetales. This order consists of a single monotypic family, Equisetaceae, with one genus Equisetum. Equisetum has about 20 species."
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

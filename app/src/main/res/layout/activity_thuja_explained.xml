@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThujaExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thuja"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thuja is a genus of coniferous trees in the Cupressaceae (cypress family). There are five species in the genus, two native to North America and three native to eastern Asia. The genus is monophyletic and sister to Thujopsis. Members are commonly known as arborvitaes, (from Latin for tree of life) thujas or cedars."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="230dp"
+            android:src="@drawable/thuja"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thuja are evergreen trees growing from 10 to 200 feet (3 to 61 metres) tall, with stringy-textured reddish-brown bark. The shoots are flat, with side shoots only in a single plane. The leaves are scale-like 1–10 mm long, except young seedlings in their first year, which have needle-like leaves. The scale leaves are arranged in alternating decussate pairs in four rows along the twigs. The male cones are small, inconspicuous, and are located at the tips of the twigs. The female cones start out similarly inconspicuous, but grow to about 1–2 cm long at maturity when 6–8 months old; they have 6-12 overlapping, thin, leathery scales, each scale bearing 1–2 small seeds with a pair of narrow lateral wings."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The five species in the genus Thuja are small to large evergreen trees with flattened branchlets. The leaves are arranged in flattened fan shaped groupings with resin-glands, and oppositely grouped in 4 ranks. The mature leaves are different from younger leaves, with those on larger branchlets having sharp, erect, free apices. The leaves on flattened lateral branchlets are crowded into appressed groups and scale-like and the lateral pairs are keeled. With the exception of T. plicata, the lateral leaves are shorter than the facial leaves (Li et al. 2005). The solitary flowers are produced terminally."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Uses"
+            android:textStyle="bold"
+            android:textColor="#7CB342"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="They are widely grown as ornamental trees, and extensively used for hedges. A number of cultivars are grown and used in landscapes. Homeowners will sometimes plant them as privacy trees. The cultivar 'Green Giant' is popular as a very vigorous hedging plant, growing up to 80 cm/year when young. The wood is light, soft and aromatic. It can be easily split and resists decay. The wood has been used for many applications from making chests that repel moths to shingles. Thuja poles are also often used to make fence posts and rails. The wood of Thuja plicata is commonly used for guitar sound boards. Its combination of light weight and resistance to decay has also led to T. plicata (western redcedar) being widely used for the construction of bee hives."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thuja plicata is an important tree to the First Nations people of the Pacific Northwest and is sometimes called Canoe Tree because of its use as a material for Native American canoes. Oil of thuja contains the terpene thujone which has been studied for its GABA receptor antagonizing effects, with potentially lethal properties. Cedarwood oil and cedar leaf oil, which are derived from Thuja occidentalis, have different properties and uses."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

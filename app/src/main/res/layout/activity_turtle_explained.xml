@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".TurtleExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Turtle"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Turtles are reptiles of the order Testudines characterized by a special bony or cartilaginous shell developed from their ribs and acting as a shield. Turtle may refer to the order as a whole (American English) or to fresh-water and sea-dwelling testudines (British English). The order Testudines includes both extant (living) and extinct species. "
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/turtle"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The earliest known members of this group date from the Middle Jurassic, making turtles one of the oldest reptile groups and a more ancient group than snakes or crocodilians. Of the 356 known species alive today, some are highly endangered."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Anatomy"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The largest living chelonian is the leatherback sea turtle (Dermochelys coriacea), which reaches a shell length of 200 cm (6.6 ft) and can reach a weight of over 900 kg (2,000 lb). Freshwater turtles are generally smaller, but with the largest species, the Asian softshell turtle Pelochelys cantorii, a few individuals have been reported up to 200 cm (6.6 ft). This dwarfs even the better-known alligator snapping turtle, the largest chelonian in North America, which attains a shell length of up to 80 cm (2.6 ft) and weighs as much as 113.4 kg (250 lb)."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Giant tortoises of the genera Geochelone, Meiolania, and others were relatively widely distributed around the world into prehistoric times, and are known to have existed in North and South America, Australia, and Africa. They became extinct at the same time as the appearance of man, and it is assumed humans hunted them for food. The only surviving giant tortoises are on the Seychelles and Galápagos Islands and can grow to over 130 cm (51 in) in length, and weigh about 300 kg (660 lb). The largest ever chelonian was Archelon ischyros, a Late Cretaceous sea turtle known to have been up to 4.6 m (15 ft) long."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Behavior"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="At least some turtles species can see color and different species prefer different colours. Indeed, the males of some species such as the painted terrapin change colour during breeding season which is thought to help individuals find a suitable mate. Turtles are thought to have exceptional night vision due to the unusually large number of rod cells in their retinas. Turtles have color vision with a wealth of cone subtypes with sensitivities ranging from the near ultraviolet (UVA) to red."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="While typically thought of as mute, turtles make various sounds when communicating. Tortoises may be vocal when courting and mating. Various species of both freshwater and sea turtles emit numerous types of calls, often short and low frequency, from the time they are in the egg to when they are adults. These vocalizations may serve to create group cohesion when migrating."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Most turtle species do not display social behavior outside of mating season but a few exceptions have been noted. It has been suggested that gopher tortoises, more than most other tortoise species, exhibit social behaviour. Gopher tortoises live in well-defined colonies which are similar to those of highly social animals such as the prairie dog. The distribution and proximity of burrows might be the consequence of social relationships between tortoises."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="It has been reported that wood turtles are better than white rats at learning to navigate mazes. Case studies exist of turtles playing. They do, however, have a very low encephalization quotient (relative brain to body mass), and their hard shells enable them to live without fast reflexes or elaborate predator avoidance strategies. In the laboratory, turtles (Pseudemys nelsoni) can learn novel operant tasks and have demonstrated a long-term memory of at least 7.5 months."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

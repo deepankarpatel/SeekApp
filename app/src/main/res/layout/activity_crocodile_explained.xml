@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".CrocodileExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crocodile"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crocodiles (subfamily Crocodylinae) or true crocodiles are large semiaquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. Crocodylinae, all of whose members are considered true crocodiles, is classified as a biological subfamily. A broader sense of the term crocodile, Crocodylidae that includes Tomistoma, is not used in this article."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/crocodile"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The term crocodile here applies to only the species within the subfamily of Crocodylinae. The term is sometimes used even more loosely to include all extant members of the order Crocodilia, which includes the alligators and caimans (family Alligatoridae), the gharial and false gharial (family Gavialidae), and all other living and fossil Crocodylomorpha."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Etymology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The word crocodile comes from the Ancient Greek, lizard, used in the phrase ho krokódilos tou potamoú, the lizard of the (Nile) river. There are several variant Greek forms of the word attested, including the later form κροκόδειλος (crocodeilos)  found cited in many English reference works. The form crocodrillus is attested in Medieval Latin. It is not clear whether this is a medieval corruption or derives from alternative Greco-Latin forms (late Greek corcodrillos and corcodrillion are attested). A (further) corrupted form cocodrille is found in Old French and was borrowed into Middle English as cocodril(le). The Modern English form crocodile was adapted directly from the Classical Latin crocodīlus in the 16th century, replacing the earlier form. The use of -y- in the scientific name Crocodylus (and forms derived from it) is a corruption introduced by Laurenti (1768)."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Characteristics"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A crocodile's physical traits allow it to be a successful predator. Its external morphology is a sign of its aquatic and predatory lifestyle. Its streamlined body enables it to swim swiftly; it also tucks its feet to the side while swimming, making it faster by decreasing water resistance. Crocodiles have webbed feet which, though not used to propel them through the water, allow them to make fast turns and sudden moves in the water or initiate swimming. Webbed feet are an advantage in shallow water, where the animals sometimes move around by walking. Crocodiles have a palatal flap, a rigid tissue at the back of the mouth that blocks the entry of water. The palate has a special path from the nostril to the glottis that bypasses the mouth. The nostrils are closed during submergence."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

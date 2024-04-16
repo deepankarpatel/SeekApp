@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CentipedeExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Centipede"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Centipedes (from the New Latin prefix centi-, hundred, and the Latin word pes, pedis, foot) are predatory arthropods belonging to the class Chilopoda (Ancient Greek χεῖλος, kheilos, lip, and New Latin suffix -poda, foot, describing the forcipules) of the subphylum Myriapoda, an arthropod group which also includes millipedes and other multi-legged creatures. Centipedes are elongated metameric creatures with one pair of legs per body segment. Most centipedes are generally venomous and can inflict painful bites, injecting their venom through pincer-like appendages known as forcipules."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/centipede"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Despite the name, centipedes can have a varying number of legs, ranging from 30 to 354. Centipedes always have an odd number of pairs of legs. Therefore, no centipede has exactly 100 legs. Similar to spiders and scorpions, centipedes are predominantly carnivorous."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Centipedes have a rounded or flattened head, bearing a pair of antennae at the forward margin. They have a pair of elongated mandibles, and two pairs of maxillae. The first pair of maxillae form the lower lip, and bear short palps. The first pair of limbs stretch forward from the body to cover the remainder of the mouth. These limbs, or maxillipeds, end in sharp claws and include venom glands that help the animal to kill or paralyze its prey."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Many species of centipedes lack eyes, but some possess a variable number of ocelli, which are sometimes clustered together to form true compound eyes. However, these eyes are only capable of discerning light and dark, and have no true vision. In some species, the first pair of legs at the head end of the centipede acts as sense organs similar to antennae, but unlike the antennae of most other animals, theirs point backwards. Unusual sense organs found in some groups are the organs of Tömösváry. These are located at the base of the antennae, and consist of a disc-like structure with a central pore surrounded by sensory cells. They are probably used for sensing vibrations, and may even provide a sense of hearing."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ecology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Centipedes are predominantly generalist predators, which means they have adapted to eat a variety of different available prey. Examination of centipede gut contents suggests that plant material is an unimportant part of their diets, although centipedes have been observed to eat vegetable matter when starved during laboratory experiments."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Centipedes are mostly nocturnal. Studies on their activity rhythms confirm this, although a few observations of centipedes active during the day have been made, and one species, Strigamia chinophila, is diurnal. What centipedes actually eat is not well known because of their cryptic lifestyles and thorough mastication of food. Laboratory feeding trials support that they will feed as generalists, taking almost anything that is soft-bodied and in a reasonable size range. Earthworms may provide the bulk of diets for geophilomorphs, since they burrow through the soil and earthworm bodies would be easily pierced by their venom claws. Geophilomorphs probably cannot subdue earthworms larger than themselves, so smaller earthworms may be a substantial proportion of their diet."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

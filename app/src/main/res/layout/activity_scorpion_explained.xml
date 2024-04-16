@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScorpionExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Scorpion"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Scorpions are predatory arachnids of the order Scorpiones. They have eight legs and are easily recognized by the pair of grasping pedipalps and the narrow, segmented tail, often carried in a characteristic forward curve over the back, ending with a venomous stinger. Scorpions range in size from 9 mm / 0.3 in to 23 cm / 9 in."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/scorpion"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The evolutionary history of scorpions goes back to the Silurian period 435 million years ago. They have adapted to a wide range of environmental conditions, and they can now be found on all continents except Antarctica. There are about 1,750 described species, with 13 extant (living) families recognised to date. Their taxonomy is being revised in the light of genomic studies. All scorpions have a venomous sting, but the vast majority of the species do not represent a serious threat to humans, and in most cases, healthy adults do not need any medical treatment after being stung. Only about 25 species are known to have venom capable of killing a human. In some parts of the world with highly venomous species, human fatalities regularly occur, primarily in areas with limited access to medical treatment."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Etymology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The word scorpion is thought to have originated in Middle English between 1175 and 1225 AD from Old French scorpion, or from Italian scorpione, both derived from the Latin scorpius, which is the romanization of the Greek word σκορπίος – skorpíos."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Evolution"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Scorpion fossils have been found in many strata, including marine Silurian and estuarine Devonian deposits, coal deposits from the Carboniferous Period and in amber. Whether the early scorpions were marine or terrestrial has been debated, though they had book lungs like modern terrestrial species. Over 100 fossil species of scorpion have been described.The oldest found to date is Parioscorpio venator, which lived 437 million years ago, during the Silurian. Unlike present day scorpions, but like its marine ancestors, it had compound eyes. Gondwanascorpio from the Devonian is the earliest known terrestrial animal on the Gondwana supercontinent."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

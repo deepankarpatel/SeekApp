@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".ApesExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apes"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apes (Hominoidea) are a branch of Old World tailless simians native to Africa and Southeast Asia. They are the sister group of the Old World monkeys, together forming the catarrhine clade. They are distinguished from other primates by a wider degree of freedom of motion at the shoulder joint as evolved by the influence of brachiation. In traditional and non-scientific use, the term ape excludes humans, and can include tailless primates taxonomically considered monkeys (such as the Barbary ape), and is thus not equivalent to the scientific taxon Hominoidea. There are two extant branches of the superfamily Hominoidea: the gibbons, or lesser apes; and the hominids, or great apes."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/ape"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Except for gorillas and humans, hominoids are agile climbers of trees. Apes eat a variety of plant and animal foods, with the majority of food being plant foods, which can include fruit, leaves, stalks, roots and seeds, including nuts and grass seeds. Human diets are sometimes substantially different from that of other apes due in part to the development of technology and a wide range of habitation. Humans are by far the most numerous of the ape species, in fact outnumbering all other primates by a factor of several thousand to one."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Morphology"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The lesser apes are the gibbon family, Hylobatidae, of sixteen species; all are native to Asia. Their major differentiating characteristic is their long arms, which they use to brachiate through trees. Their wrists are ball and socket joints as an evolutionary adaptation to their arboreal lifestyle. Generally smaller than the African apes, the largest gibbon, the siamang, weighs up to 14 kg (31 lb); in comparison, the smallest great ape, the bonobo, is 34 to 60 kg (75 to 132 lb)."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The superfamily Hominoidea falls within the parvorder Catarrhini, which also includes the Old World monkeys of Africa and Eurasia. Within this grouping, the two families Hylobatidae and Hominidae can be distinguished from Old World monkeys by the number of cusps on their molars; hominoids have five in the Y-5 molar pattern, whereas Old World monkeys have only four in a bilophodont pattern."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Behaviour"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Major studies of behaviour in the field were completed on the three better-known great apes, for example by Jane Goodall, Dian Fossey and Birute Galdikas. These studies have shown that in their natural environments, the non-human hominoids show sharply varying social structure: gibbons are monogamous, territorial pair-bonders, orangutans are solitary, gorillas live in small troops with a single adult male leader, while chimpanzees live in larger troops with bonobos exhibiting promiscuous sexual behaviour. Their diets also vary; gorillas are foliovores, while the others are all primarily frugivores, although the common chimpanzee does some hunting for meat. Foraging behaviour is correspondingly variable."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

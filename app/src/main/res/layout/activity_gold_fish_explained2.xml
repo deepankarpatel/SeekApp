@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GoldFishExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gold fish"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The common goldfish is a breed of goldfish with no other differences from its living ancestor, the Prussian carp, other than its color and shape. Goldfish are a form of domesticated wild carp and are a close relative of koi. Most varieties of fancy goldfish were derived from this simple breed."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:src="@drawable/gildfish"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Common goldfish come in a variety of colors including red, orange, red/white, white/black, yellow/white, blue, grey/brown/, olive green, yellow, white, and black, with the most common variation being orange (combined with its simplicity, hence the name). Sometimes, the brightness, duration, and the vividness of the color may be an indication of the fish's health status."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Breeding"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Breeding common goldfish is relatively easy. In breeding condition the male will develop small white spots on his gill covers and the female will become plump. The male will chase the female until she releases her eggs, then the male will release milt and they will become fertilized. The eggs will then stick to any available surface. It is then best to remove the eggs to a separate aquarium as the adults are likely to eat them. When the eggs hatch into fry, they will need to be fed very small food such as hatched brine shrimp or a ready made fry food. As they grow bigger, they can eat finely crumbled fishfood. Eventually, the pieces of fish food can get bigger."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lifespan"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Goldfish can live for long periods of time if they are fed a varied diet and housed in proper water conditions. The average lifetime of a goldfish is ten to fifteen years. The longest lived goldfish on record lived to age 43. The oldest living goldfish was Tish, won by a UK family at a funfair. Tish was recognized into the Guinness Book of World Records as the longest living fish. Improper care or life in a bowl greatly reduces the typical lifespan of a goldfish."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

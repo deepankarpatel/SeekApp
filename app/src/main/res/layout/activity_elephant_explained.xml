@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".ElephantExplained">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Elephant"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Elephantidae are a family of large, herbivorous mammals collectively called elephants and mammoths. These are terrestrial large mammals with a snout modified into a trunk and teeth modified into tusks. Most genera and species in the family are extinct. Only two genera, Loxodonta (African elephants) and Elephas (Asiatic elephants), are living."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/elephant"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The family was first described by John Edward Gray in 1821, and later assigned to taxonomic ranks within the order Proboscidea. The Elephantidae have also been revised by various authors to include or exclude other extinct proboscidean genera."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Classification"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Scientific classification of Elephantidae taxa embraces an extensive record of fossil specimens, over millions of years, some of which existed until the end of the last ice age. Some species were extirpated more recently. The discovery of new specimens and proposed cladistics have resulted in systematic revisions of the family and related proboscideans. Elephantids are classified informally as the elephant family, or in a paleobiological context as elephants and mammoths. The common name elephant primarily refers to the living taxa, the modern elephants, but may also refer to a variety of extinct species, both within this family and in others. Other members of the Elephantidae, especially members of Mammuthus, are referred to by the common name mammoth. The family diverged from a common ancestor of the mastodons of Mammutidae. The classification of proboscideans is unstable and has been frequently revised."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Evolutionary history"
+            android:textStyle="bold"
+            android:textColor="#FFAB40"
+            android:textSize="25sp"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Although the fossil evidence is uncertain, by comparing genes, scientists have discovered evidence that elephantids and other proboscideans share a distant ancestry with Sirenia (sea cows) and Hyracoidea (hyraxes). These have been assigned, along with the extinct demostylians and embrithopods, to the clade Paenungulata. In the distant past, members of the various hyrax families grew to large sizes, and the common ancestor of all three modern families is thought to have been some kind of amphibious hyracoid. One hypothesis is that these animals spent most of their time under water, using their trunks like snorkels for breathing. Modern elephants have this ability and are known to swim in that manner for up to six hours and 50 km (31 mi). In the past, a much wider variety of genera and species was found, including the mammoths and stegodons."
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>
